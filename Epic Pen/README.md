@@ -25,4 +25,4 @@ Send, {Alt down}{Tab}{Alt up}
 return
 ```
 
-![Stream Deck Screenshot][https://raw.githubusercontent.com/KranzSysdig/StreamDeckButtons/master/Epic%20Pen/Screenshot.png]
+![Stream Deck Screenshot](https://raw.githubusercontent.com/KranzSysdig/StreamDeckButtons/master/Epic%20Pen/Screenshot.png)
