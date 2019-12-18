@@ -4,24 +4,25 @@ I do a lot of online demos, so I'm a big fan of (Epic Pen)[https://epic-pen.com/
 WinActivate, Epic Pen
 MouseClick, left, 825, 595
 Send, {Alt down}{Tab}{Alt up}
-return```
+return
 
-```^!2::
+^!2::
 WinActivate, Epic Pen
 MouseClick, left, 825, 620
 Send, {Alt down}{Tab}{Alt up}
-return```
+return
 
-```^!3::
+^!3::
 WinActivate, Epic Pen
 MouseClick, left, 850, 595
 Send, {Alt down}{Tab}{Alt up}
-return```
+return
 
-```^!4::
+^!4::
 WinActivate, Epic Pen
 MouseClick, left, 850, 620
 Send, {Alt down}{Tab}{Alt up}
-return```
+return
+```
 
 ![Stream Deck Screenshot][https://raw.githubusercontent.com/KranzSysdig/StreamDeckButtons/master/Epic%20Pen/Screenshot.png]
