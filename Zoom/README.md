@@ -1,6 +1,7 @@
 Useful hotkeys for when using [Zoom](https://zoom.us/) (including muting Slack!). These are mapped using [AutoHotkeys](https://www.autohotkey.com/) and the following scripts:
 
-```^!j::
+```
+^!j::
 WinActivate, Zoom
 Send, {Alt down}a{Alt up}
 Send, {Alt down}{Tab}{Alt up}
