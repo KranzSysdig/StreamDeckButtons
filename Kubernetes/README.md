@@ -5,11 +5,12 @@ For the TMUX left and right buttons, I use (AutoHotkey)[https://www.autohotkey.c
 ```^!-::
 Send, {Ctrl down}b{Ctrl up}
 Send, p
-return```
+return
 
-```^!=::
+^!=::
 Send, {Ctrl down}b{Ctrl up}
 Send, n
-return```
+return
+```
 
-![Stream Deck Screenshot][https://raw.githubusercontent.com/KranzSysdig/StreamDeckButtons/master/Kubernetes/Screenshot.png]
+![Stream Deck Screenshot](https://raw.githubusercontent.com/KranzSysdig/StreamDeckButtons/master/Kubernetes/Screenshot.PNG)
