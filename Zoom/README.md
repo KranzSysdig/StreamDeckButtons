@@ -4,26 +4,27 @@ Useful hotkeys for when using [Zoom](https://zoom.us/) (including muting Slack!)
 WinActivate, Zoom
 Send, {Alt down}a{Alt up}
 Send, {Alt down}{Tab}{Alt up}
-return```
+return
 
-```^!k::
+^!k::
 WinActivate, Zoom
 Send, {Alt down}v{Alt up}
 Send, {Alt down}{Tab}{Alt up}
-return```
+return
 
-```^!l::
+^!l::
 WinActivate, Slack
 Send {Raw}/dnd 12h
 Send {Enter}
 Send, {Alt down}{Tab}{Alt up}
-return```
+return
 
-```^!p::
+^!p::
 WinActivate, Slack
 Send {Raw}/dnd off
 Send {Enter}
 Send, {Alt down}{Tab}{Alt up}
-return```
+return
+```
 
-![Stream Deck Screenshot][https://raw.githubusercontent.com/KranzSysdig/StreamDeckButtons/master/Zoom/Screenshot.png]
+![Stream Deck Screenshot](https://raw.githubusercontent.com/KranzSysdig/StreamDeckButtons/master/Zoom/Screenshot.PNG)
