@@ -1,6 +1,7 @@
 I do a lot of online demos, so I'm a big fan of (Epic Pen)[https://epic-pen.com/]. It allows me to do screen annotations across both slides and product demos, so really useful. Most Epic Pen actions have hotkeys already, so it's just a case of mapping these in Stream Deck. For colour changing, I have the following, which maps to Blue, Red/Pink, Yellow, Black:
 
-```^!1::
+```
+^!1::
 WinActivate, Epic Pen
 MouseClick, left, 825, 595
 Send, {Alt down}{Tab}{Alt up}
